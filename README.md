@@ -270,12 +270,12 @@ https://your-project.vercel.app/
 ## 📦 GitHub Repository
 
 🔗 **Repository:**
-Add your GitHub repository link here.
+
 
 Example:
 
 text
-https://github.com/YOUR-USERNAME/PRODIGY_WD_01
+https://github.com/sidhantkamble22/PRODIGY_WD_01
 
 
 ---
