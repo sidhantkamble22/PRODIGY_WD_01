@@ -272,7 +272,7 @@ https://your-project.vercel.app/
 🔗 **Repository:**
 
 
-Example:
+
 
 text
 https://github.com/sidhantkamble22/PRODIGY_WD_01
@@ -280,17 +280,7 @@ https://github.com/sidhantkamble22/PRODIGY_WD_01
 
 ---
 
-## 📸 Project Preview
 
-Add screenshots of your project here after completing the UI.
-
-Example:
-
-markdown
-![Project Preview](./preview.png)
-
-
----
 
 ## 🏆 Internship Task
 
